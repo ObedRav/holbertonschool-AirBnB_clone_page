@@ -2,12 +2,12 @@
 
 This repository contains the source code for the Holberton School AirBnB Clone project.
 
-## Project Description
+## Project Description :space_invader:
 
 The Holberton School AirBnB Clone Page project is an exercise in front-end web development. The project consists of developing a web page that mimics the user interface of the AirBnB website.
 But the principal use of this repository is the deployment.
 
-## Project Structure
+## Project Structure :robot:
 
 The repository contains the following files and directories:
 
