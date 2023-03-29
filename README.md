@@ -12,5 +12,5 @@ But the principal use of this repository is the deployment.
 The repository contains the following files and directories:
 
 - [index.html](./index.html): The main HTML file for the webpage
-- [css](./css): Directory containing the CSS stylesheets for the webpage
+- [styles](./styles): Directory containing the CSS stylesheets for the webpage
 - [images](./images): Directory containing the images used in the webpage
